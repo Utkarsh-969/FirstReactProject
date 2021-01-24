@@ -1,0 +1,19 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  input {
+    box-sizing: border-box;
+    padding: 0.5rem;
+    width: 60%;
+    margin: 1rem;
+  }
+
+  button {
+    margin: 1rem;
+    padding : 0.5rem
+  }
+
+  input:focus {
+     border: yellow;
+  }
